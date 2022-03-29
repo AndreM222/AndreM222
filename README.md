@@ -6,8 +6,9 @@
 
 ## I am a University Student aspiring to be a developer
 
-- Developer
-- Linux(Manjaro) Newbie
+- Game Developer
+- Linux(Manjaro)
+
 
 ---
 <p>
