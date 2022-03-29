@@ -9,7 +9,7 @@
 - Game Developer 🎮
 - Linux(Manjaro) 💻
 - Sofware Developer 📱
-- I enjoy learning 📖
+- I enjoy learning 📒
 
 ---
 <p>
