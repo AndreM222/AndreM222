@@ -3,7 +3,7 @@
 ## I am a University Student aspiring to be a developer
 
 <p>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Andre_Mossi&show_icons=true&theme=radical">
 </p>
   
 - Developer
