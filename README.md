@@ -18,7 +18,7 @@
 ## Languages:
 
 <p>
-<img align='right' src="Images/ReadingIcon.png">
+<img align='right' width=250 height=200 src="Images/ReadingIcon.png">
 </p>
 
 - Java
