@@ -5,6 +5,10 @@
 - Developer
 - Linux(Manjaro) Newbie
 ---
+<p>
+<img align='right' width="200" src="Images/ReadingIcon.png">
+</p>
+
 ## Languages:
 
 - Java
