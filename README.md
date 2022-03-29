@@ -12,11 +12,12 @@
 - I enjoy learning 📒
 
 ---
+
+## Languages:
+
 <p>
 <img align='right' width="200" src="Images/ReadingIcon.png">
 </p>
-
-## Languages:
 
 - Java
 - C++
