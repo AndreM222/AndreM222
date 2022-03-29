@@ -6,10 +6,10 @@
 
 ## I am a University Student aspiring to be a developer
 
-- Game Developer
-- Linux(Manjaro)
-- Sofware Developer
-- I enjoy learning
+- Game Developer 🎮
+- Linux(Manjaro) 💻
+- Sofware Developer 📱
+- I enjoy learning 📖
 
 ---
 <p>
