@@ -1,10 +1,10 @@
 ### Hi there, I am Andre Mossi👋
 
+## I am a University Student aspiring to be a developer
+
 <p>
 <img align='right' width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=radical">
 </p>
-
-## I am a University Student aspiring to be a developer
 
 - Game Developer 🎮
 - Linux(Manjaro) 💻
