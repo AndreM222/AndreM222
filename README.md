@@ -11,6 +11,7 @@
 - Sofware Developer 📱
 - I enjoy learning 📒
 - I speak two languages fluently 📢
+- I enjoy working with others 🗣️
 
 ---
 
