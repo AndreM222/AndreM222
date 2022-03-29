@@ -2,6 +2,7 @@
 
 ## I am a University Student aspiring to be a developer
 
+<img align='right' width="300" src="(https://github-readme-stats.vercel.app/api?username=Andre's&show_icons=true&theme=radical)">
 - Developer
 - Linux(Manjaro) Newbie
 ---
