@@ -10,7 +10,7 @@
 - Linux(Manjaro) 💻
 - Sofware Developer 📱
 - I enjoy learning 📒
-- I can speak two languages fluently 📢
+- I speak two languages fluently 📢
 
 ---
 
