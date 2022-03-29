@@ -1,7 +1,7 @@
 ### Hi there, I am Andre Mossi👋
 
 <p>
-<img align='right' width='400' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=radical">
+<img align='left' width='400' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=radical">
 </p>
 
 ## I am a University Student aspiring to be a developer
