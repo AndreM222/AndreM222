@@ -8,6 +8,7 @@
 
 - Game Developer 🎮
 - Linux(Manjaro) 💻
+- Windows 💻
 - Sofware Developer 📱
 - I enjoy learning 📒
 - I speak two languages fluently 📢
