@@ -6,10 +6,10 @@
 <img align='right' width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
 </p>
 
+- Sofware Developer 📱
 - Game Developer 🎮
 - Linux(Manjaro) 💻
 - Windows 💻
-- Sofware Developer 📱
 - I enjoy learning 📒
 - I speak two languages fluently 📢
 - I enjoy working with others 🗣️
