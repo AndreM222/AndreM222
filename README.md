@@ -7,8 +7,8 @@
 </p>
 
 <div>
-    <a>- Sofware Developer 📱 </a>
-    - Game Developer 🎮
+    <p>- Sofware Developer 📱 </p>
+    <p>- Game Developer 🎮 </p>
     - Linux(Manjaro) 💻
     - Windows 💻
     - I enjoy learning 📒
