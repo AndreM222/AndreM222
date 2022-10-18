@@ -7,7 +7,7 @@
 </p>
 
 <div>
-    - Sofware Developer 📱
+    <a>- Sofware Developer 📱 </a>
     - Game Developer 🎮
     - Linux(Manjaro) 💻
     - Windows 💻
