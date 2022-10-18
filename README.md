@@ -6,15 +6,15 @@
 <img align='right' width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
 </p>
 
-<div>
-    <p>- Sofware Developer 📱 </p>
-    <p>- Game Developer 🎮 </p>
-    - Linux(Manjaro) 💻
-    - Windows 💻
-    - I enjoy learning 📒
-    - I speak two languages fluently 📢
-    - I enjoy working with others 🗣️
-</div>
+<ul>
+    <li>Sofware Developer 📱</li>
+    <li>Game Developer 🎮</li>
+    <li>Linux(Manjaro) 💻</li>
+    <li>Windows 💻</li>
+    <li>I enjoy learning 📒</li>
+    <li>I speak two languages fluently 📢</li>
+    <li> I enjoy working with others 🗣️</li>
+</ul>
 
 ---
 
