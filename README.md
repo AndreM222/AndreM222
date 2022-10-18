@@ -13,7 +13,7 @@
     <li>Windows 💻</li>
     <li>I enjoy learning 📒</li>
     <li>I speak two languages fluently 📢</li>
-    <li> I enjoy working with others 🗣️</li>
+    <li>I enjoy working with others 🗣️</li>
 </ul>
 
 ---
