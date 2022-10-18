@@ -6,15 +6,13 @@
 <img align='right' width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
 </p>
 
-<div>
-    - Sofware Developer 📱
-    - Game Developer 🎮
-    - Linux(Manjaro) 💻
-    - Windows 💻
-    - I enjoy learning 📒
-    - I speak two languages fluently 📢
-    - I enjoy working with others 🗣️
-</div>
+- Sofware Developer 📱
+- Game Developer 🎮
+- Linux(Manjaro) 💻
+- Windows 💻
+- I enjoy learning 📒
+- I speak two languages fluently 📢
+- I enjoy working with others 🗣️
 
 ---
 
@@ -24,7 +22,7 @@
     <img align='right' width=280 height=200 src="Images/ReadingIcon.png">
 </p>
 
-<p align="left"> 
+<div align="left"> 
 
 - <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -39,4 +37,5 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 - <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+ <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+ </div>
