@@ -20,9 +20,9 @@
 
 ## Languages:
 
-<p>
+<div>
     <img align='right' width=280 height=200 src="Images/ReadingIcon.png">
-</p>
+</div>
 
 <div align="left"rm -f ./.git/index.lock>
 
