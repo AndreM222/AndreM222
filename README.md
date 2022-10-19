@@ -1,11 +1,9 @@
-<link rel="stylesheet" href="style.css">
-
 ## Hi there, I am Andre Mossi👋
 
 ## I am a University Student aspiring to be a developer
 
 <div>
-<img class="ranking-container" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
+<img align="right" content="max-width=705" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
 </div>
 
 <ul>
