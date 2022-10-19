@@ -5,8 +5,8 @@
     <img align="right" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
 </div>
 
-<hr>
-    <ul width="560">
+<hr width="160">
+    <ul>
         <li>Sofware Developer 📱</li>
         <li>Game Developer 🎮</li>
         <li>Linux(Manjaro) 💻</li>
