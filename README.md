@@ -1,8 +1,9 @@
 ## Hi there, I am Andre Mossi👋
 
 ## I am a University Student aspiring to be a developer
-
-<img align="right" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
+<div>
+    <img align="right" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
+</div>
 
 <hr>
     <ul width="560">
