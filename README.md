@@ -35,4 +35,4 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img color="white" id="unrealIMG" src="![GitHub-Mark-Light](Images/UE_Logo_White.svg)" alt="unreal" width="40" height="40"/> </a>
+![GitHub-Mark-Light](<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img color="white" id="unrealIMG" src="Images/UE_Logo_White.svg" alt="unreal" width="40" height="40"/> </a>)
