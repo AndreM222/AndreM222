@@ -5,7 +5,7 @@
     <img align="right" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
 </div>
 
-<div width="290">
+<hr width="290">
     <ul>
         <li>Sofware Developer 📱</li>
         <li>Game Developer 🎮</li>
@@ -15,7 +15,7 @@
         <li>I speak two languages fluently 📢</li>
         <li>I enjoy working with others 🗣️</li>
     </ul>
-</div>
+</hr>
 
 ## Languages:
 
