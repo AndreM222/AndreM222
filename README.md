@@ -3,7 +3,7 @@
 ## I am a University Student aspiring to be a developer
 
 <div style="padding: 50px">
-<img align="right" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
+    <img align="right" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
 </div>
 
 <ul>
