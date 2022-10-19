@@ -1,9 +1,11 @@
+<link rel="stylesheet" href="style.css">i
+
 ## Hi there, I am Andre Mossi👋
 
 ## I am a University Student aspiring to be a developer
 
 <div>
-<img align='right' width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
+<img width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
 </div>
 
 <ul>
@@ -21,10 +23,8 @@
 ## Languages:
 
 <div>
-    <img align='right' width=280 height=200 src="Images/ReadingIcon.png">
+    <img align="right" width=280 height=200 src="Images/ReadingIcon.png">
 </div>
-
-<div align="left"rm -f ./.git/index.lock>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -40,4 +40,3 @@
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-</div>
