@@ -15,7 +15,6 @@
         <li>I enjoy working with others 🗣️</li>
     </ul>
 </hr>
----
 
 ## Languages:
 
