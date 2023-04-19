@@ -2,7 +2,8 @@
 
 ## Full-Stack Developer
 
-<img align="right" alt="stats" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly" />
+<source media="(prefers-color-scheme: dark)" align="right" width='360' srcset="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=olly">
+<source media="(prefers-color-scheme: light)" align="right" width='360' srcset="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=moltack">
 
 <hr align="left" width="290" alt="separator"/>
 
