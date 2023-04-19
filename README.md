@@ -1,11 +1,10 @@
 ## Hi there, I am Andre Mossi👋
 
 ## I am a University Student aspiring to be a developer
-<div>
-    <img align="right" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly">
-</div>
 
-<hr width="290"> </hr>
+<img align="right" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly" />
+
+<hr width="290" />
 <ul>
     <li>Sofware Developer 📱</li>
     <li>Game Developer 🎮</li>
@@ -18,10 +17,9 @@
 
 ## Languages
 
-<div>
-    <img align="right" width=280 height=200 src="Images/ReadingIcon.png">
-</div>
-<hr width="160"> </hr>
+<img align="right" width=280 height=200 src="Images/ReadingIcon.png" />
+
+<hr width="160" />
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
