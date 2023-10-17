@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Andre Mossi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
-## Full-Stack Developer
+<h2>Full-Stack Developer</h2>
 
 <img align="right" alt="stats" width='360' src="https://github-readme-stats.vercel.app/api?username=andrem222&show_icons=true&theme=jolly" />
 
@@ -14,7 +14,7 @@
 -   I speak two languages fluently 📢
 -   I enjoy working with others 🗣️
 
-## Languages
+<h2>Languages</h2>
 
 <img align="right" width=280 src="Images/ReadingIcon.png" />
 
